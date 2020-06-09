@@ -21,6 +21,6 @@ https://www.sentinel-hub.com/past-contests/ "Better snow visualisation using NDS
 Annamaria Luongo inspiring Earth-Art scripts:  
 https://twitter.com/annamaria_84  
   
-https://raw.githubusercontent.com/smaprs/sel_enh_index/master/fig/Andes3400km.jpg
 
-https://twitter.com/sergioajv1/status/1270061454306263045?s=20
+![Andes](https://raw.githubusercontent.com/smaprs/sel_enh_index/master/fig/Andes3400km.jpg)
+Me on [ twitter](https://twitter.com/sergioajv1/status/1270061454306263045?s=20)
