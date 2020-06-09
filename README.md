@@ -1,6 +1,5 @@
 # satellite-stuff
 Repository for anything satellite related worth to backup  
-  
 Me on [ twitter](https://twitter.com/sergioajv1/status/1270061454306263045?s=20)  
 ![Andes](https://raw.githubusercontent.com/smaprs/sel_enh_index/master/fig/Andes3400km.jpg)
   
